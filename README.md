@@ -9,7 +9,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mohd-Fuzail&icon=2&color=9)](https://visitcount.itsvg.in)
 
-💬 Ask me about Frontend Development <br>  🚀My <span style="color: red;"> Portfolio Website</span> # <br>🌱 I am currently pursuing my Bachelor's Degree in Electronics and Communication Engineering. <br>📫 How to reach me: mohdfuzail489@gmail.com<br>😄 Pronouns: He/His
+💬 Ask me about Frontend Development <br>  🚀My <span style="color: red;"> Portfolio Website</span> https://portfolio-mohd-fuzails-projects.vercel.app/ <br>🌱 I am currently pursuing my Bachelor's Degree in Electronics and Communication Engineering. <br>📫 How to reach me: mohdfuzail489@gmail.com<br>😄 Pronouns: He/His
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohd.__fuzail/) 
